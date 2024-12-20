@@ -66,8 +66,8 @@ color: wheat;
     font-size: 3.5rem;
     letter-spacing: 3px;
     font-family: 'Times New Roman', Times, serif;
-    margin-bottom: 14px;
-    margin-top: 20px;
+    margin-bottom: 10px;
+/*     margin-top: 0px; */
   }
   
   .body p {
@@ -78,7 +78,7 @@ color: wheat;
   }
   
   .body .btn {
-    margin-top: 20px;
+    margin-top: 10px;
   }
   
   .body a {
