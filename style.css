@@ -44,10 +44,10 @@ body {
 }
 
 .image-slider1 h3 {
-  height: 30px; /* Adjust as needed */
+  height: 25px; /* Adjust as needed */
   margin-right: 0px; /* Optional spacing */
   color: #e94a00;
-  font-size: 1.8rem;
+  font-size: 1.5rem;
 }
 
 /* Keyframes for infinite scrolling */
