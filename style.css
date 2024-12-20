@@ -40,7 +40,7 @@ body {
   display: flex;
   width: max-content; /* Automatically adjust based on content width */
   animation: slide-infinite 50s linear infinite;
-  padding-top: 100px;
+  padding-top: 80px;
 }
 
 .image-slider1 h3 {
